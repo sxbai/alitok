@@ -1,5 +1,5 @@
 run = ["bash","run.sh"]
-language = "Blank Repl"
+language = "blank repl"
 entrypoint = "run.sh"
 [nix]
 channel = "stable-21_11"
