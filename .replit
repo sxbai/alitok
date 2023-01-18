@@ -1,4 +1,5 @@
 run = ["bash","run.sh"]
 language = "bash"
+entrypoint = "run.sh"
 [nix]
 channel = "stable-21_11"
